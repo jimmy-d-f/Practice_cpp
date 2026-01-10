@@ -1,0 +1,62 @@
+# =========================
+# C++ compiled files
+# =========================
+*.exe
+*.out
+*.app        # Mac executables
+*.a          # Static libraries
+*.lib        # Windows libraries
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Object files and debug
+# =========================
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# =========================
+# Build folders
+# =========================
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.make
+
+# =========================
+# VSCode / IDE files
+# =========================
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.swp
+*~
